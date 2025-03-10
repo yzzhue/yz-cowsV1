@@ -8,8 +8,7 @@ Config.yzItem = {
 }
 ```
 
-## 🔧 **Cara Menambahkan Custom Item**
-**Tambahkan item baru** ke dalam `Config.yzItem` dengan format:
+**Tambahkan item** ke dalam `Config.yzItem` dengan format:
 
 ```lua
 { name = 'nama_item', count = { min = jumlah_minimal, max = jumlah_maksimal } }
